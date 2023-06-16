@@ -1,6 +1,0 @@
-python diferencia letras maiúsculas de minúsculas
-
-"""
-Python = Linguagem de programação
-Tipagem = Dinâmica / Forte 
-"""

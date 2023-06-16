@@ -1,0 +1,9 @@
+python diferencia letras maiúsculas de minúsculas
+
+"""
+Python = Linguagem de programação
+Tipagem = Dinâmica / Forte 
+"""
+
+Convenções de nomenclatura:
+    Link: https://www.alura.com.br/artigos/convencoes-nomenclatura-camel-pascal-kebab-snake-case#tabela
